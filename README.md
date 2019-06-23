@@ -1,2 +1,3 @@
-# Neural-Network-Python
-## 本项目仅用于阅读《python神经网络编程》的练习
+# Neural-Network
+## 简单的三层神经网络系统
+## 基于python3 
